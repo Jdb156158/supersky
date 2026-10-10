@@ -2,6 +2,12 @@
 
 根据提供的游戏视频制作的网页版：粉彩城市、五人飞行小队、彩虹尾迹、音符收集、连击、黑兔障碍与三颗生命。
 
+## 在线体验
+
+[点击体验 SUPER SKY](https://jdb156158.github.io/supersky/)
+
+[![SUPER SKY 游戏快照](game-preview.png)](https://jdb156158.github.io/supersky/)
+
 ## 本地运行
 
 ```sh
